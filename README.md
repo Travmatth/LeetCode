@@ -3,3 +3,4 @@ Easy:
 - Two Sum: Done
 - Add Two Numbers: Done
 - Longest Substring Without Repeating Characters: Done
+- Merge Sorted Lists: Done
