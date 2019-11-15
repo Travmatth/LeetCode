@@ -14,3 +14,6 @@ Easy:
 - #38 Count and Say: Done
 - #53 maximum subarray: Done
 - #66: Plus One: Done
+- #69: Sqrt: Done
+- #70: Climbing Stairs: Done
+- #88: Merge Sorted Array: Done
