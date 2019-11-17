@@ -17,3 +17,5 @@ Easy:
 - #69: Sqrt: Done
 - #70: Climbing Stairs: Done
 - #88: Merge Sorted Array: Done
+- #118: Pascal's Triangle: Done
+- #121: Best Time to Buy and Sell Stock: Done
