@@ -17,6 +17,9 @@ Easy:
 - #69: Sqrt: Done
 - #70: Climbing Stairs: Done
 - #88: Merge Sorted Array: Done
+- #101 Symmetric Tree: Done
+- #104 Maximum Depth of Binary Tree: Done
+- #108 Convert Sorted Array to Binary Search Tree: Done
 - #118: Pascal's Triangle: Done
 - #121: Best Time to Buy and Sell Stock: Done
 - #122: Best Time to Buy and Sell Stock II: Done
