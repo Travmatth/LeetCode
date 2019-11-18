@@ -9,28 +9,7 @@ same time (i.e., you must sell the stock before you buy again).
 """
 
 class Solution(object):
-    def maxProfit_greedy(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
-        # the local max profit will result in the global max profit
-        # seek out local ascending series
-        if not prices:
-            return 0
-        n = len(prices)
-        if not n:
-            return 0
-        max_profit, min_buy = 0, 0
-        for i in range(n):
-            if (prices[i] < prices[i - 1]):
-                max_profit += prices[i - 1] - prices[min_buy]
-                min_buy = i
-        if prices[min_buy] < prices[n - 1]:
-            max_profit += prices[n - 1] - prices[min_buy]
-        return max_profit
-
-    def maxProfit_dp (self, prices):
+    def maxProfit(self, prices):
         """
         :type prices: List[int]
         :rtype: int
@@ -38,19 +17,18 @@ class Solution(object):
         # http://buttercola.blogspot.com/2014/09/leetcode-best-time-to-buy-and-sell.html
         # define DP array where dp[i] is max profit at day i
         # initial state dp[0] means we buy and sell first day
+        if not prices:
+            return 0
+        n = len(prices)
+        profits = [0 for _ in range(n)]
         # transition fx: dp[i] = dp[i - 1] + prices[i] - prices[i - 1]
         #   where prices[i] <= prices[i - 1]
-        # final state: check dp[n]
-        pass
-
-
-
-    def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
-        pass
+        for i in range(1, len(prices)):
+            if prices[i] > prices[i - 1]:
+                profits[i] = profits[i - 1] + prices[i] - prices[i - 1]
+            else:
+                profits[i] = profits[i - 1]
+        return profits[n - 1]
 
 if __name__ == "__main__":
     s = Solution()

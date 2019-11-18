@@ -19,3 +19,7 @@ Easy:
 - #88: Merge Sorted Array: Done
 - #118: Pascal's Triangle: Done
 - #121: Best Time to Buy and Sell Stock: Done
+- #122: Best Time to Buy and Sell Stock II: Done
+- #125: Valid Palindrome: Done
+- #136: Single Number: Done
+- #141: Linked List Cycle: Done
