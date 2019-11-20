@@ -26,3 +26,7 @@ Easy:
 - #125: Valid Palindrome: Done
 - #136: Single Number: Done
 - #141: Linked List Cycle: Done
+- #155 Min Stack: Done
+- #160 Intersection of Two Linked Lists: Done
+- #169 Majority Element: Done
+- #171 Excel Sheet Column Number: Done
