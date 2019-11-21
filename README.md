@@ -30,3 +30,7 @@ Easy:
 - #160 Intersection of Two Linked Lists: Done
 - #169 Majority Element: Done
 - #171 Excel Sheet Column Number: Done
+- #189 Rotate Array: Done
+- #190 Reverse Bits: Done
+- #191 Number of 1 Bits: Done
+
