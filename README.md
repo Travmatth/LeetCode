@@ -33,4 +33,7 @@ Easy:
 - #189 Rotate Array: Done
 - #190 Reverse Bits: Done
 - #191 Number of 1 Bits: Done
+- #191 Number of 1 Bits: Done
+- #198 House Robber: Done
+- #202 Happy Number: Done
 
