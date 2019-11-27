@@ -36,4 +36,9 @@ Easy:
 - #191 Number of 1 Bits: Done
 - #198 House Robber: Done
 - #202 Happy Number: Done
-
+Medium:
+- #2 Add Two Numbers: Done
+- #3 Longest Substring Without Repeating Characters: Done
+- #5 Longest Palindromic Substring: Done
+- #8 String to Integer (atoi): Done
+- #11 Container With Most Water: Done
