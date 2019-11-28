@@ -42,3 +42,6 @@ Medium:
 - #5 Longest Palindromic Substring: Done
 - #8 String to Integer (atoi): Done
 - #11 Container With Most Water: Done
+- #15 3Sum: Done
+- #17 Letter Combinations of a Phone Number: Done
+- #19 Remove Nth Node From End of List: Done

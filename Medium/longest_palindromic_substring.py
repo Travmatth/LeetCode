@@ -49,4 +49,7 @@ if __name__ == "__main__":
     ex_4 = s.longestPalindrome("habdba")
     if ex_4 != "abdba":
         print("ERROR")
+    ex_5 = s.longestPalindrome("amanaplanacanalpanama")
+    if ex_5 != "amanaplanacanalpanama":
+        print("ERROR")
     pass
