@@ -45,3 +45,6 @@ Medium:
 - #15 3Sum: Done
 - #17 Letter Combinations of a Phone Number: Done
 - #19 Remove Nth Node From End of List: Done
+- #22 Generate Parentheses: Done
+- #29 Divide Two Integers: Done
+- #33 Search in Rotated Sorted Array: Done
