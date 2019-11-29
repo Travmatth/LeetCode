@@ -1,4 +1,5 @@
 A repository for solutions to leetcode problems.
+
 Easy:
 - #1 Two Sum: Done
 - #7 Reverse Integer: Done
@@ -36,7 +37,9 @@ Easy:
 - #191 Number of 1 Bits: Done
 - #198 House Robber: Done
 - #202 Happy Number: Done
+
 Medium:
+
 - #2 Add Two Numbers: Done
 - #3 Longest Substring Without Repeating Characters: Done
 - #5 Longest Palindromic Substring: Done
