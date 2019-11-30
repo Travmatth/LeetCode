@@ -55,3 +55,6 @@ Medium:
 - #22 Generate Parentheses: Done
 - #29 Divide Two Integers: Done
 - #33 Search in Rotated Sorted Array: Done
+- #34 Find First and Last Position of Element in Sorted Array: Done
+- #36 Valid Sudoku: Done
+- #46 Permutations: Done
