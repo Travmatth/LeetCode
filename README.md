@@ -58,3 +58,6 @@ Medium:
 - #34 Find First and Last Position of Element in Sorted Array: Done
 - #36 Valid Sudoku: Done
 - #46 Permutations: Done
+- #48 Rotate Image: Done
+- #49 Group Anagrams: Done
+- #50 Pow(x, n): Done
