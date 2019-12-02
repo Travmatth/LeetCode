@@ -61,3 +61,6 @@ Medium:
 - #48 Rotate Image: Done
 - #49 Group Anagrams: Done
 - #50 Pow(x, n): Done
+- #54 Spiral Matrix: Done
+- #55 Jump Game: Done
+- #56 Merge Intervals: Done
