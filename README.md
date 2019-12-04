@@ -64,3 +64,7 @@ Medium:
 - #54 Spiral Matrix: Done
 - #55 Jump Game: Done
 - #56 Merge Intervals: Done
+- #62 Unique Paths: Done
+- #73 Set Matrix Zeroes: Done
+- #75 Sort Colors: Done
+- #78 Subsets: Done

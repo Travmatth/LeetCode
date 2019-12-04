@@ -7,27 +7,19 @@ Determine if you are able to reach the last index.
 """
 
 class Solution(object):
-    def jump(self, nums, pos, memo, n):
-        if pos >= n - 1:
-            memo[pos] = True
-        if pos in memo:
-            return memo[pos] 
-        for i in range(1, nums[pos] + 1):
-            if self.jump(nums, pos + i, memo, n):
-                memo[pos] = True
-                return True
-        memo[pos] = False
-        return False
-
     def canJump(self, nums):
         """
         :type nums: List[int]
         :rtype: bool
         """
         n = len(nums)
-        memo = {}
-        memo[n - 1] = True
-        return self.jump(nums, 0, memo, n)
+        if n <= 1:
+            return True
+        last = n - 1
+        for i in reversed(range(n)):
+            if i + nums[i] >= last:
+                last = i
+        return last == 0
 
 if __name__ == "__main__":
     s = Solution()

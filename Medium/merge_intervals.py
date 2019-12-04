@@ -15,10 +15,10 @@ class Solution(object):
             merged = [first[0], first[1]]
             while i + j < n:
                 second = intervals[i + j]
-                if merged[1] >= second[0]:
-                    merged[1] = second[1]
-                else:
+                if merged[1] < second[0]:
                     break
+                elif merged[1] < second[1]:
+                    merged[1] = second[1]
                 j += 1
             out.append(merged)
             i += j
@@ -32,7 +32,10 @@ if __name__ == "__main__":
     ex_1 = s.merge([[1, 4], [4, 5]])
     if ex_1 != [[1, 5]]:
         print("Error")
-    ex_1 = s.merge([[20, 25], [1, 5], [10, 15], [4, 11]])
-    if ex_1 != [[1, 15], [20, 25]]:
+    ex_2 = s.merge([[20, 25], [1, 5], [10, 15], [4, 11]])
+    if ex_2 != [[1, 15], [20, 25]]:
+        print("Error")
+    ex_3 = s.merge([[1, 4], [2, 3]])
+    if ex_3 != [[1, 4]]:
         print("Error")
     pass
