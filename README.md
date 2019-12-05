@@ -68,3 +68,6 @@ Medium:
 - #73 Set Matrix Zeroes: Done
 - #75 Sort Colors: Done
 - #78 Subsets: Done
+- #79 Subsets: Done
+- #91 Word Search: Done
+- #94 Decode Ways: Done
