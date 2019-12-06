@@ -71,3 +71,6 @@ Medium:
 - #79 Subsets: Done
 - #91 Word Search: Done
 - #94 Decode Ways: Done
+- #98 Validate Binary Search Tree: Done
+- #102 Binary Tree Level Order Traversal: Done
+- #103 Binary Tree Zigzag Level Order Traversal: Done
