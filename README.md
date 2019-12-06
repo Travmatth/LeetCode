@@ -74,3 +74,6 @@ Medium:
 - #98 Validate Binary Search Tree: Done
 - #102 Binary Tree Level Order Traversal: Done
 - #103 Binary Tree Zigzag Level Order Traversal: Done
+- #105 Construct Binary Tree from Preorder and Inorder Traversal: Done
+- #116 Populating Next Right Pointers in Each Node: Done
+- #127 Word Ladder: Done
