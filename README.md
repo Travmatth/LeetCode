@@ -77,3 +77,7 @@ Medium:
 - #105 Construct Binary Tree from Preorder and Inorder Traversal: Done
 - #116 Populating Next Right Pointers in Each Node: Done
 - #127 Word Ladder: Done
+- #130 Surrounded Regions: Done
+- #131 Palindrome Partitioning: Done
+- #134 Gas Station: Done
+- #138 Copy List with Random Pointe: Done
