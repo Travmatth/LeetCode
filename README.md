@@ -81,3 +81,8 @@ Medium:
 - #131 Palindrome Partitioning: Done
 - #134 Gas Station: Done
 - #138 Copy List with Random Pointe: Done
+- #139 Word Break: Done
+- #146 LRU Cache: Done
+- #148 Sort List: Done
+- #150 Evaluate Reverse Polish Notation: Done
+- #152 Maximum Product Subarray: Done
