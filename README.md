@@ -86,3 +86,7 @@ Medium:
 - #148 Sort List: Done
 - #150 Evaluate Reverse Polish Notation: Done
 - #152 Maximum Product Subarray: Done
+- #162 Find Peak Element: Done
+- #166 Fraction to Recurring Decimal: Done
+- #179 Largest Number: Done
+
