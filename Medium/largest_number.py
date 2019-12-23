@@ -39,7 +39,6 @@ class Solution(object):
         if ret[0] == "0":
             return "0"
         return ret
-        
 
 if __name__ == "__main__":
     s = Solution()
