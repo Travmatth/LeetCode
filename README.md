@@ -89,4 +89,6 @@ Medium:
 - #162 Find Peak Element: Done
 - #166 Fraction to Recurring Decimal: Done
 - #179 Largest Number: Done
-
+- #200 Number of Islands: Done
+- #207 Course Schedule: Done
+- #208 Implement Trie (Prefix Tree): Done
