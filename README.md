@@ -92,3 +92,6 @@ Medium:
 - #200 Number of Islands: Done
 - #207 Course Schedule: Done
 - #208 Implement Trie (Prefix Tree): Done
+- #210 Course Schedule II: Done
+- #215 Kth Largest Element in an Array: Done
+- #227 Basic Calculator II: Done
