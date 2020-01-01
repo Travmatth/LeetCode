@@ -95,3 +95,7 @@ Medium:
 - #210 Course Schedule II: Done
 - #215 Kth Largest Element in an Array: Done
 - #227 Basic Calculator II: Done
+- #230 Kth Smallest Element in a BST: Done
+- #236 Lowest Common Ancestor of a Binary Tree: Done
+- #238 Product of Array Except Self: Done
+
