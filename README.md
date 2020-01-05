@@ -98,5 +98,7 @@ Medium:
 - #230 Kth Smallest Element in a BST: Done
 - #236 Lowest Common Ancestor of a Binary Tree: Done
 - #238 Product of Array Except Self: Done
-
-Search 2D Matrix
+- #240 Search a 2D Matrix II: Done
+- #279 Perfect Squares: Done
+- #287 Find the Duplicate Number: Done
+- #289 Game of Life: Done
