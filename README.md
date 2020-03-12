@@ -106,3 +106,7 @@ Medium:
 - #337 House Robber III
 - #338 Counting Bits
 - #347 Top K Frequent Elements
+- #240 Search a 2D Matrix II: Done
+- #279 Perfect Squares: Done
+- #287 Find the Duplicate Number: Done
+- #289 Game of Life: Done
