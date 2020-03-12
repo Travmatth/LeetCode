@@ -98,5 +98,11 @@ Medium:
 - #230 Kth Smallest Element in a BST: Done
 - #236 Lowest Common Ancestor of a Binary Tree: Done
 - #238 Product of Array Except Self: Done
-
-Search 2D Matrix
+- #240 Search a 2D Matrix II
+- #279 Perfect Squares
+- #300 Longest Increasing Subsequence
+- #309 Best Time to Buy and Sell Stock with Cooldown
+- #322 Coin Change
+- #337 House Robber III
+- #338 Counting Bits
+- #347 Top K Frequent Elements
