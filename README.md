@@ -110,3 +110,4 @@ Medium:
 - #279 Perfect Squares: Done
 - #287 Find the Duplicate Number: Done
 - #289 Game of Life: Done
+- #394 Decode String: Done
